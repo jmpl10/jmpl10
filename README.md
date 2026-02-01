@@ -1,6 +1,6 @@
 # jmpl10 
 José Manuel Pérez
-Catedrático de educación secundaria de Informática
+Catedrático de Educación Secundaria. Especialidad Informática
 ## IES LUIS VIVES
 # Leganés
 Madrid
